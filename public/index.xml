@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Info</title>
+    <link>https://quartz.jzhao.xyz/Deutsch.vn/Info/Info</link>
+    <guid>https://quartz.jzhao.xyz/Deutsch.vn/Info/Info</guid>
+    <description>🧠 Tổng quan về Deutsch.vn Deutsch.vn là một nền tảng học tiếng Đức miễn phí và chất lượng cao, được xây dựng với sứ mệnh: Hỗ trợ người học tiếng Đức, đặc biệt là từ Việt Nam.</description>
+    <pubDate>Mon, 02 Jun 2025 14:40:37 GMT</pubDate>
+  </item><item>
+    <title>Problame</title>
+    <link>https://quartz.jzhao.xyz/Deutsch.vn/Info/Problame</link>
+    <guid>https://quartz.jzhao.xyz/Deutsch.vn/Info/Problame</guid>
+    <description>Thị trường tiếng Đức: Nhiều người học, ít nơi đáng tin Trong những năm gần đây, tiếng Đức trở thành lựa chọn hàng đầu cho nhiều học sinh – sinh viên Việt Nam có ý định du học, định cư hoặc làm việc tại Đức, Áo, Thụy Sĩ.</description>
+    <pubDate>Mon, 02 Jun 2025 14:40:37 GMT</pubDate>
+  </item><item>
+    <title>Project Overview &amp; Roadmap</title>
+    <link>https://quartz.jzhao.xyz/Deutsch.vn/Info/Project-Overview--and--Roadmap</link>
+    <guid>https://quartz.jzhao.xyz/Deutsch.vn/Info/Project-Overview--and--Roadmap</guid>
+    <description>🧩 Giải pháp của Deutsch.vn: Xây dựng lại niềm tin trong ngành tiếng Đức Deutsch.vn không đơn thuần là một website học tiếng Đức.</description>
+    <pubDate>Mon, 02 Jun 2025 14:40:37 GMT</pubDate>
+  </item><item>
+    <title>undefined</title>
+    <link>https://quartz.jzhao.xyz/Deutsch.vn/Test</link>
+    <guid>https://quartz.jzhao.xyz/Deutsch.vn/Test</guid>
+    <description></description>
+    <pubDate>Sun, 01 Jun 2025 21:49:24 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
+    <pubDate>Sun, 01 Jun 2025 21:14:45 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
