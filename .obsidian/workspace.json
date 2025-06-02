@@ -178,6 +178,7 @@
   },
   "active": "9daaec474ad177fa",
   "lastOpenFiles": [
+    "public/static/de.jpg",
     "CNAME",
     "public/Deutsch.vn/Info/Project-Overview--and--Roadmap-og-image.webp",
     "public/Deutsch.vn/Info/Problame-og-image.webp",
@@ -195,7 +196,6 @@
     "public/static/giscus/light.css",
     "public/static/giscus/dark.css",
     "public/static/giscus",
-    "public/static/contentIndex.json",
     "public/static/og-image.png",
     "public/static/icon.png",
     "node_modules/mathjax-full/README.md",
