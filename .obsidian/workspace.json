@@ -178,8 +178,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9daaec474ad177fa",
+  "active": "7c729af8a0a1a0ef",
   "lastOpenFiles": [
+    "node_modules/rehype-citation/dist/node/src/citation-js/core/Cite/async.js",
+    "node_modules/rehype-citation/dist/node/src/citation-js/core/Cite",
+    "node_modules/rehype-citation/dist/node/src/citation-js/core",
+    "node_modules/rehype-citation/dist/node/src/citation-js",
+    "node_modules/rehype-citation/dist/node/src",
+    "node_modules/rehype-citation/dist/node",
+    "node_modules/rehype-citation/dist",
+    "node_modules/rehype-citation/LICENSE",
+    "node_modules/regex/src/flag-x.js",
+    "node_modules/regex/src/flag-n.js",
+    "node_modules/regex/src/backcompat.js",
     "content/Deutsch.vn/Info/Info.md",
     "templates/chapter.md"
   ]
