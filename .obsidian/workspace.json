@@ -11,14 +11,12 @@
             "id": "9daaec474ad177fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "templates/chapter.md",
-                "mode": "source",
-                "source": false
+                "file": "public/Deutsch.vn/Test-og-image.webp"
               },
-              "icon": "lucide-file",
-              "title": "chapter"
+              "icon": "lucide-image",
+              "title": "Test-og-image"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "c3034e220704df23",
+            "id": "3a25c47335c767fe",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/chapter.md",
+                "file": "public/Deutsch.vn/Info/Info-og-image.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chapter"
+              "title": "Backlinks for Info-og-image"
             }
           },
           {
@@ -123,12 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/chapter.md",
+                "file": "public/Deutsch.vn/Info/Info-og-image.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from chapter"
+              "title": "Outgoing links from Info-og-image"
             }
           },
           {
@@ -152,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/chapter.md",
+                "file": "public/Deutsch.vn/Info/Info-og-image.webp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of chapter"
+              "title": "Outline of Info-og-image"
             }
           }
         ]
@@ -178,13 +176,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c729af8a0a1a0ef",
+  "active": "9daaec474ad177fa",
   "lastOpenFiles": [
-    "public/index-og-image.webp",
-    "public/Deutsch.vn/Test-og-image.webp",
     "public/Deutsch.vn/Info/Project-Overview--and--Roadmap-og-image.webp",
     "public/Deutsch.vn/Info/Problame-og-image.webp",
     "public/Deutsch.vn/Info/Info-og-image.webp",
+    "content/Deutsch.vn/Info/Problame.md",
+    "public/Deutsch.vn/Test-og-image.webp",
+    "templates/chapter.md",
+    "public/index-og-image.webp",
     "public/postscript.js",
     "public/prescript.js",
     "public/index.css",
@@ -220,11 +220,8 @@
     "node_modules/@bufbuild/protobuf/README.md",
     "node_modules/@shuding/opentype.js/README.md",
     "node_modules/satori/README.md",
-    "node_modules/sass-embedded-darwin-x64/README.md",
-    "node_modules/preact/README.md",
     "node_modules/cli-spinner/img/spinner.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
-    "node_modules/gifuct-js/demo/horses.gif",
-    "node_modules/gifuct-js/demo/dog.gif"
+    "node_modules/gifuct-js/demo/horses.gif"
   ]
 }
