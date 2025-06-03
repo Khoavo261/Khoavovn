@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Sản phầm đi kèm/Deutschhub.vn/6. Market Analysis.md",
+                "file": "content/Readflo/0. Readflo – Project Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. Market Analysis"
+              "title": "0. Readflo – Project Overview"
             }
           }
         ]
@@ -190,13 +190,26 @@
   },
   "active": "9daaec474ad177fa",
   "lastOpenFiles": [
-    "content/Sản phầm đi kèm/Deutschhub.vn/5. Business Model.md",
-    "content/Sản phầm đi kèm/Deutschhub.vn/4. Product & Tech.md",
-    "content/Sản phầm đi kèm/Deutschhub.vn/3. Solution.md",
-    "content/Sản phầm đi kèm/Deutschhub.vn/2. The Problem.md",
-    "content/Sản phầm đi kèm/Deutschhub.vn/1. Deutschhub.vn.md",
-    "content/Sản phầm đi kèm/Deutschhub.vn/0. Deutsch Hub – Project Overview.md",
-    "content/Sản phầm đi kèm/Deutschhub.vn/11. Social Impact & Sustainability.md",
+    "content/Readflo/10. Financial Forecast.md",
+    "content/Readflo/0. Readflo – Project Overview.md",
+    "content/Readflo/9. Founding Team.md",
+    "content/Readflo/8. Roadmap.md",
+    "content/Readflo/7. Go-to-Market Strategy.md",
+    "content/Readflo/6. Market Analysis.md",
+    "content/Readflo/5. Business Model.md",
+    "content/Readflo/4. Product & Technology.md",
+    "content/Readflo/3. Solution.md",
+    "content/Readflo/2. The Problem.md",
+    "content/Readflo/1. Readflo.md",
+    "content/Sản phầm đi kèm/Readflo/Readflo.md",
+    "content/Deutschhub.vn/6. Market Analysis.md",
+    "content/Deutschhub.vn/5. Business Model.md",
+    "content/Deutschhub.vn/4. Product & Tech.md",
+    "content/Deutschhub.vn/3. Solution.md",
+    "content/Deutschhub.vn/2. The Problem.md",
+    "content/Deutschhub.vn/1. Deutschhub.vn.md",
+    "content/Deutschhub.vn/0. Deutsch Hub – Project Overview.md",
+    "content/Deutschhub.vn/11. Social Impact & Sustainability.md",
     "public/Sản-phầm-đi-kèm/Deutschhub.vn/5.-Business-Model-og-image.webp",
     "public/Sản-phầm-đi-kèm/Deutschhub.vn/4.-Product--and--Tech-og-image.webp",
     "public/Sản-phầm-đi-kèm/Deutschhub.vn/3.-Solution-og-image.webp",
@@ -217,23 +230,11 @@
     "public/tags/team.html",
     "public/Sản-phầm-đi-kèm/Deutschhub.vn/9.-Founding-Team.html",
     "public/tags/roadmap.html",
-    "content/Sản phầm đi kèm/Deutschhub.vn/10. Financials & Funding.md",
-    "content/Sản phầm đi kèm/Deutschhub.vn/8. Roadmap.md",
-    "content/Sản phầm đi kèm/Deutschhub.vn/9. Founding Team.md",
-    "content/Sản phầm đi kèm/Deutschhub.vn/6. Market Analysis.md",
-    "content/Sản phầm đi kèm/Deutschhub.vn/7. Market Strategy.md",
+    "content/Deutschhub.vn/10. Financials & Funding.md",
+    "content/Deutschhub.vn/8. Roadmap.md",
+    "content/Deutschhub.vn/9. Founding Team.md",
+    "content/Deutschhub.vn/7. Market Strategy.md",
     "content/Deutsch.vn/9. Founding Team.md",
-    "content/Deutsch.vn/10. Financials & Funding.md",
-    "content/Deutsch.vn/11. Risks & Mitigation.md",
-    "content/Deutsch.vn/8. Product Roadmap.md",
-    "content/Deutsch.vn/7. Market Strategy.md",
-    "content/Deutsch.vn/1. Deutsch.vn.md",
-    "content/Deutsch.vn/6. Market Analysis.md",
-    "content/Deutsch.vn/5. Business Model.md",
-    "content/Deutsch.vn/4. Product & Technology.md",
-    "content/Deutsch.vn/3. Solution.md",
-    "content/Deutsch.vn/2. The Problem.md",
-    "templates/chapter.md",
-    "Untitled.md"
+    "content/Deutsch.vn/10. Financials & Funding.md"
   ]
 }
