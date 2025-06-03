@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Readflo/0. Readflo – Project Overview.md",
-                "mode": "source",
+                "file": "templates/chapter.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0. Readflo – Project Overview"
+              "title": "chapter"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "9daaec474ad177fa",
   "lastOpenFiles": [
-    "content/Readflo/10. Financial Forecast.md",
+    "content/Deutschhub.vn/0. Deutsch Hub – Project Overview.md",
     "content/Readflo/0. Readflo – Project Overview.md",
+    "content/Readflo/10. Financial Forecast.md",
     "content/Readflo/9. Founding Team.md",
     "content/Readflo/8. Roadmap.md",
     "content/Readflo/7. Go-to-Market Strategy.md",
@@ -208,7 +209,6 @@
     "content/Deutschhub.vn/3. Solution.md",
     "content/Deutschhub.vn/2. The Problem.md",
     "content/Deutschhub.vn/1. Deutschhub.vn.md",
-    "content/Deutschhub.vn/0. Deutsch Hub – Project Overview.md",
     "content/Deutschhub.vn/11. Social Impact & Sustainability.md",
     "public/Sản-phầm-đi-kèm/Deutschhub.vn/5.-Business-Model-og-image.webp",
     "public/Sản-phầm-đi-kèm/Deutschhub.vn/4.-Product--and--Tech-og-image.webp",
