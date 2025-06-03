@@ -11,12 +11,24 @@
             "id": "9daaec474ad177fa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "public/Deutsch.vn/Test-og-image.webp"
+                "file": "content/Deutsch.vn/11. Risks & Mitigation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Test-og-image"
+              "icon": "lucide-file",
+              "title": "11. Risks & Mitigation"
             }
           }
         ]
@@ -51,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:startup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "68bbda7fafe59f4f",
@@ -178,6 +190,19 @@
   },
   "active": "9daaec474ad177fa",
   "lastOpenFiles": [
+    "content/Deutsch.vn/10. Financials & Funding.md",
+    "content/Deutsch.vn/11. Risks & Mitigation.md",
+    "content/Deutsch.vn/9. Founding Team.md",
+    "content/Deutsch.vn/8. Product Roadmap.md",
+    "content/Deutsch.vn/7. Market Strategy.md",
+    "content/Deutsch.vn/6. Market Analysis.md",
+    "content/Deutsch.vn/5. Business Model.md",
+    "content/Deutsch.vn/1. Deutsch.vn.md",
+    "content/Deutsch.vn/4. Product & Technology.md",
+    "content/Deutsch.vn/3. Solution.md",
+    "content/Deutsch.vn/2. The Problem.md",
+    "templates/chapter.md",
+    "Untitled.md",
     "public/static/de.jpg",
     "CNAME",
     "public/Deutsch.vn/Info/Project-Overview--and--Roadmap-og-image.webp",
@@ -185,7 +210,6 @@
     "public/Deutsch.vn/Info/Info-og-image.webp",
     "content/Deutsch.vn/Info/Problame.md",
     "public/Deutsch.vn/Test-og-image.webp",
-    "templates/chapter.md",
     "public/index-og-image.webp",
     "public/postscript.js",
     "public/prescript.js",
@@ -210,19 +234,7 @@
     "node_modules/colorjs.io/README.md",
     "node_modules/@esbuild/darwin-x64/README.md",
     "node_modules/speech-rule-engine/README.md",
-    "node_modules/speech-rule-engine/bin/README.md",
-    "node_modules/rehype-citation/README.md",
-    "node_modules/sass/README.md",
-    "node_modules/flexsearch/CHANGELOG.md",
-    "node_modules/flexsearch/README.md",
-    "node_modules/katex/README.md",
-    "node_modules/katex/src/metrics/README.md",
-    "node_modules/@shuding/opentype.js/RELEASES.md",
-    "node_modules/@bufbuild/protobuf/README.md",
-    "node_modules/@shuding/opentype.js/README.md",
-    "node_modules/satori/README.md",
     "node_modules/cli-spinner/img/spinner.gif",
-    "node_modules/gifuct-js/demo/jblack.gif",
-    "node_modules/gifuct-js/demo/horses.gif"
+    "node_modules/gifuct-js/demo/jblack.gif"
   ]
 }
