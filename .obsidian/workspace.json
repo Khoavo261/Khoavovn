@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/chapter.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "content/Readflo/Product Plan/3. Product Development Phase 3.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter"
+              "title": "3. Product Development Phase 3"
             }
           }
         ]
@@ -63,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:startup",
+                "query": "tag:khách",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,26 +180,35 @@
   },
   "active": "9daaec474ad177fa",
   "lastOpenFiles": [
+    "content/Readflo/Product Plan/3. Product Development Phase 2.md",
+    "content/Readflo/Product Plan/3. Product Development Phase 3.md",
+    "content/Readflo/Product Plan/2.  Product Development Phase 1.md",
+    "content/Readflo/Product Plan/1. Product Development Plan.md",
+    "content/Readflo/2. Marketing Plan/1. Target Segments & Market Pain Points.md",
+    "content/Readflo/Product Plan",
+    "content/Readflo/2. Marketing Plan/4. U ser funnel flow.md",
+    "content/Readflo/2. Marketing Plan/2. Long-term Marketing Plan.md",
+    "content/Readflo/2. Marketing Plan/3. Readflo Marketing Strategy Q4-2025.md",
+    "content/Readflo/1. Overview/1. Readflo.md",
+    "content/Readflo/2. Marketing Plan",
+    "content/Readflo/1. Overview/0. Project Overview.md",
+    "templates/chapter.md",
+    "content/Readflo/1. Overview",
     "content/Deutschhub.vn/0. Deutsch Hub – Project Overview.md",
-    "content/Readflo/0. Readflo – Project Overview.md",
-    "content/Readflo/10. Financial Forecast.md",
-    "content/Readflo/9. Founding Team.md",
-    "content/Readflo/8. Roadmap.md",
-    "content/Readflo/7. Go-to-Market Strategy.md",
-    "content/Readflo/6. Market Analysis.md",
-    "content/Readflo/5. Business Model.md",
-    "content/Readflo/4. Product & Technology.md",
-    "content/Readflo/3. Solution.md",
-    "content/Readflo/2. The Problem.md",
-    "content/Readflo/1. Readflo.md",
+    "content/Readflo/1. Overview/10. Financial Forecast.md",
+    "content/Readflo/1. Overview/9. Founding Team.md",
+    "content/Readflo/1. Overview/8. Roadmap.md",
+    "content/Readflo/1. Overview/7. Go-to-Market Strategy.md",
+    "content/Readflo/1. Overview/6. Market Analysis.md",
+    "content/Readflo/1. Overview/5. Business Model.md",
+    "content/Readflo/1. Overview/4. Product & Technology.md",
+    "content/Readflo/1. Overview/3. Solution.md",
+    "content/Readflo/1. Overview/2. The Problem.md",
     "content/Sản phầm đi kèm/Readflo/Readflo.md",
     "content/Deutschhub.vn/6. Market Analysis.md",
     "content/Deutschhub.vn/5. Business Model.md",
     "content/Deutschhub.vn/4. Product & Tech.md",
     "content/Deutschhub.vn/3. Solution.md",
-    "content/Deutschhub.vn/2. The Problem.md",
-    "content/Deutschhub.vn/1. Deutschhub.vn.md",
-    "content/Deutschhub.vn/11. Social Impact & Sustainability.md",
     "public/Sản-phầm-đi-kèm/Deutschhub.vn/5.-Business-Model-og-image.webp",
     "public/Sản-phầm-đi-kèm/Deutschhub.vn/4.-Product--and--Tech-og-image.webp",
     "public/Sản-phầm-đi-kèm/Deutschhub.vn/3.-Solution-og-image.webp",
@@ -226,15 +225,6 @@
     "public/index.html",
     "public/Sản-phầm-đi-kèm/Readflo/intro.html",
     "public/tags/index.html",
-    "public/Sản-phầm-đi-kèm/Readflo/Marketingplan.html",
-    "public/tags/team.html",
-    "public/Sản-phầm-đi-kèm/Deutschhub.vn/9.-Founding-Team.html",
-    "public/tags/roadmap.html",
-    "content/Deutschhub.vn/10. Financials & Funding.md",
-    "content/Deutschhub.vn/8. Roadmap.md",
-    "content/Deutschhub.vn/9. Founding Team.md",
-    "content/Deutschhub.vn/7. Market Strategy.md",
-    "content/Deutsch.vn/9. Founding Team.md",
-    "content/Deutsch.vn/10. Financials & Funding.md"
+    "public/Sản-phầm-đi-kèm/Readflo/Marketingplan.html"
   ]
 }
