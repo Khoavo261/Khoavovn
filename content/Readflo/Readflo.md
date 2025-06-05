@@ -5,7 +5,9 @@ tags:
 order:
 ---
 ## 🧠 **Dự án Readflo – Nền tảng đọc hiểu thông minh hỗ trợ học ngoại ngữ**
-![[_- visual selection.png]]
+
+![User Flow](/readflo/1.png)
+
 ### 🎯 **Mục tiêu**
 
 Xây dựng một công cụ giống Readlang, giúp người học ngôn ngữ mới (như tiếng Đức) **cải thiện kỹ năng đọc hiểu** thông qua:
